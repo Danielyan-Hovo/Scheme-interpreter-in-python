@@ -60,7 +60,7 @@ can see when opening the window,
 A window will open and you can run the interpreter.py file right here and see the output
 To do this, you need to do the following:
 	ֆայլ => բացել => select the file you want to run, in this case it's a  text file,
-	in which is written scheme code => աեղմել open =>  Աշտատացնել 
+	in which is written scheme code => սեղմել open =>  Աշխատացնել 
 
 
 
